@@ -1,0 +1,31 @@
+date,category,product,sales,profit,customers,region
+2024-01-01,Elettronica,Smartphone,12500,3750,250,Nord
+2024-01-01,Abbigliamento,Giacca,3200,960,80,Nord
+2024-01-01,Casa,Forno,1800,540,45,Nord
+2024-01-02,Elettronica,Tablet,8900,2670,178,Sud
+2024-01-02,Abbigliamento,Scarpe,4100,1230,103,Sud
+2024-01-02,Casa,Frigorifero,3200,960,64,Sud
+2024-01-03,Elettronica,Laptop,21500,6450,430,Centro
+2024-01-03,Abbigliamento,Pantaloni,2800,840,70,Centro
+2024-01-03,Casa,Lavatrice,4500,1350,90,Centro
+2024-01-04,Elettronica,Smartwatch,7500,2250,150,Nord
+2024-01-04,Abbigliamento,Cappotto,5200,1560,104,Nord
+2024-01-04,Casa,Microonde,1900,570,38,Nord
+2024-01-05,Elettronica,TV,18200,5460,364,Sud
+2024-01-05,Abbigliamento,Maglietta,3100,930,78,Sud
+2024-01-05,Casa,Aspirapolvere,2800,840,56,Sud
+2024-01-06,Elettronica,Cuffie,4800,1440,96,Centro
+2024-01-06,Abbigliamento,Camicia,3900,1170,78,Centro
+2024-01-06,Casa,Caffettiera,2200,660,44,Centro
+2024-01-07,Elettronica,Monitor,11200,3360,224,Nord
+2024-01-07,Abbigliamento,Jeans,4500,1350,90,Nord
+2024-01-07,Casa,Tostapane,1600,480,32,Nord
+2024-01-08,Elettronica,Console,16700,5010,334,Sud
+2024-01-08,Abbigliamento,Felpa,3800,1140,76,Sud
+2024-01-08,Casa,Forno microonde,2100,630,42,Sud
+2024-01-09,Elettronica,Smartphone,13800,4140,276,Centro
+2024-01-09,Abbigliamento,Giacca,2900,870,58,Centro
+2024-01-09,Casa,Frigo bar,3400,1020,68,Centro
+2024-01-10,Elettronica,Tablet,9500,2850,190,Nord
+2024-01-10,Abbigliamento,Scarpe,4300,1290,86,Nord
+2024-01-10,Casa,Forno,2500,750,50,Nord
